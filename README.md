@@ -8,9 +8,11 @@ Problem of Statement:
 2. To map spatial distribution and possible patterns.
 
 Data Set Description: 
+
 A reported instance of crime in Toronto will be pulled from the Toronto Police Service Open Data for the time of 2014 - 2019.
 
-Methodology
+Methodology:
+
 Python version 3.x will be used with appropriate packages to perform the following statistical analysis. 
 •	Descriptive analysis
 •	Regression analysis
