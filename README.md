@@ -1,10 +1,10 @@
 # Crime Analysis- The City of Toronto #
 
-                                                                        ### Project members ###
-                                                                        ### Melkamu Gishu ###
-                                                                        ### Gordon Cameron ###
-                                                                        ### Parul Chaudhary ###
-                                                                        ### Paola Merrick ###
+                                                                        *** Project members ***
+                                                                        *** Melkamu Gishu ***
+                                                                        *** Gordon Cameron ***
+                                                                        *** Parul Chaudhary ***
+                                                                        *** Paola Merrick ***
 
 
 # Introduction #
@@ -29,15 +29,15 @@ To analyze and explore the Toronto Crime data set to understand trends and patte
 
 Python version 3.x will be used with appropriate packages to perform the following statistical analysis. 
 	
-	### Descriptive analysis ###
-	### Regression analysis ###
-	### Time Series analysis ###
-	### Spatial analysis ###
+	** Descriptive analysis **
+	** Regression analysis **
+	** Time Series analysis **
+	** Spatial analysis **
 	
 
 # Proposed Plan. #
 **************************************************************************************
-Activities /t	                                       Time \t	                         Notes
+Activities /n	                                       Time \n	                         Notes
 
 Concept note preparation by the team	             Feb 13-14	
 
