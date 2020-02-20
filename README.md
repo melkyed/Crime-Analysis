@@ -1,10 +1,10 @@
 # Crime Analysis- The City of Toronto #
 
-                                                                        Project members
-                                                                        1.Melkamu Gishu
-                                                                        2.Gordon Cameron
-                                                                        3.Parul Chaudhary
-                                                                        4.Paola Merrick
+                                                                        ### Project members ###
+                                                                        ### Melkamu Gishu ###
+                                                                        ### Gordon Cameron ###
+                                                                        ### Parul Chaudhary ###
+                                                                        ### Paola Merrick ###
 
 
 # Introduction #
@@ -18,26 +18,26 @@ To analyze and explore the Toronto Crime data set to understand trends and patte
 4.	How does the Socioeconomic status in a neighborhood affect crime rates?
 
 
-#Methodology#
+# Methodology #
 
-##Data Set Description:## 
+## Data Set Description: ## 
    A reported instance of crime in Toronto will be pulled from the Toronto Police Service Open Data for the time of 2014 - 2019.
    Census tract profile from Stats Canada Census Profiles API
    We will also pull a neighborhood profiles from the city of Toronto opendata.
 
-#Statistical analysis#
+# Statistical analysis #
 
 Python version 3.x will be used with appropriate packages to perform the following statistical analysis. 
 	
-	###Descriptive analysis###
-	###Regression analysis###
-	###Time Series analysis###
-	###Spatial analysis###
+	### Descriptive analysis ###
+	### Regression analysis ###
+	### Time Series analysis ###
+	### Spatial analysis ###
 	
 
-#Proposed Plan.#
+# Proposed Plan. #
 **************************************************************************************
-Activities/n	                                       Time	                         Notes
+Activities /t	                                       Time \t	                         Notes
 
 Concept note preparation by the team	             Feb 13-14	
 
