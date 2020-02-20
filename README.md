@@ -19,16 +19,20 @@ To analyze and explore the Toronto Crime data set to understand trends and patte
 
 
 Methodology
+
 Data Set Description: 
-	A reported instance of crime in Toronto will be pulled from the Toronto Police Service Open Data for the time of 2014 - 2019.
-	Census tract profile from Stats Canada Census Profiles API
-	We will also pull a neighborhood profiles from the city of Toronto opendata.
+   A reported instance of crime in Toronto will be pulled from the Toronto Police Service Open Data for the time of 2014 - 2019.
+   Census tract profile from Stats Canada Census Profiles API
+   We will also pull a neighborhood profiles from the city of Toronto opendata.
+
 Statistical analysis
+
 Python version 3.x will be used with appropriate packages to perform the following statistical analysis. 
 	Descriptive analysis
 	Regression analysis
 	Time Series analysis
 	Spatial analysis
+
 
 Proposed Plan.
 **************************************************************************************
