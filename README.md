@@ -28,18 +28,29 @@ Data Set Description:
 Statistical analysis
 
 Python version 3.x will be used with appropriate packages to perform the following statistical analysis. 
+	
 	Descriptive analysis
+	
 	Regression analysis
+	
 	Time Series analysis
+	
 	Spatial analysis
+	
 
 
 Proposed Plan.
 **************************************************************************************
 Activities	                                       Time	                         Notes
+
 Concept note preparation by the team	             Feb 13-14	
+
 Data extraction and cleaning	                     Feb 15-21	
-Analysis	                                         Feb 21-24	
-Result summary and writeup	                       Feb 25-27	
-Preparing resentation and Submition	               Feb 28-29	
+
+Analysis	                                     Feb 21-24	
+
+Result summary and writeup	                     Feb 25-27
+
+Preparing resentation and Submition	             Feb 28-29	
+
 
